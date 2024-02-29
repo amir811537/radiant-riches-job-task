@@ -22,13 +22,13 @@ Before you begin, ensure you have the following installed:
    git clone https://github.com/amir811537/radiant-riches-job-task.git
 2. Navigate to the project directory:
 
-          cd radiant-riches-job-task
+        ```bash    cd radiant-riches-job-task
 3.Install dependencies:
-         npm install
+         ```bash npm install
 4.Development:
-            npm run dev
+           ```bash npm run dev
 5.Building for Production:
-        npm run build
+         ```bash npm run build
 6.Project Structure:
 
         src/              # Source code
