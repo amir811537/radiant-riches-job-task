@@ -1,8 +1,38 @@
-# React + Vite
+# Radiant Riches Job Task
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a React + Vite + Tailwind CSS application that provides a minimal setup for fast development with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Visit the live demo: [Radiant Riches Job Task](https://65e09a5930a8a80b8c38b83c--incandescent-zuccutto-eb99f4.netlify.app/)
+
+## Getting Started
+
+### Prerequisites
+
+Before you begin, ensure you have the following installed:
+
+- [Node.js](https://nodejs.org/) (v14 or later recommended)
+
+### Project Setup
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/amir811537/radiant-riches-job-task.git
+2. Navigate to the project directory:
+
+          cd radiant-riches-job-task
+3.Install dependencies:
+         npm install
+4.Development:
+            npm run dev
+5.Building for Production:
+        npm run build
+6.Project Structure:
+
+        src/              # Source code
+|-- components/   # React components
+|-- styles/       # CSS styles, including Tailwind CSS
+|-- App.jsx       # Main application component
+|-- index.jsx     # Entry point
