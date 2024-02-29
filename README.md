@@ -4,13 +4,13 @@ This project is a React + Vite + Tailwind CSS application that provides a minima
 
 ## Live Demo
 
-Visit the live demo: [Radiant Riches Job Task](https://65e09a5930a8a80b8c38b83c--incandescent-zuccutto-eb99f4.netlify.app/)
+Check out the live demo [here](https://65e09a5930a8a80b8c38b83c--incandescent-zuccutto-eb99f4.netlify.app/).
 
 ## Getting Started
 
 ### Prerequisites
 
-Before you begin, ensure you have the following installed:
+Before you begin, make sure you have the following installed:
 
 - [Node.js](https://nodejs.org/) (v14 or later recommended)
 
@@ -20,19 +20,40 @@ Before you begin, ensure you have the following installed:
 
    ```bash
    git clone https://github.com/amir811537/radiant-riches-job-task.git
-2. Navigate to the project directory:
+Navigate to the project directory:
 
-        ```bash    cd radiant-riches-job-task
-3.Install dependencies:
-         ```bash npm install
-4.Development:
-           ```bash npm run dev
-5.Building for Production:
-         ```bash npm run build
-6.Project Structure:
+bash
+Copy code
+cd radiant-riches-job-task
+Install dependencies:
 
-        src/              # Source code
-|-- components/   # React components
-|-- styles/       # CSS styles, including Tailwind CSS
-|-- App.jsx       # Main application component
-|-- index.jsx     # Entry point
+bash
+Copy code
+npm install
+Development
+To start the development server with hot module replacement (HMR), run:
+
+bash
+Copy code
+npm run dev
+Building for Production
+To build the project for production, run:
+
+bash
+Copy code
+npm run build
+Project Structure
+bash
+Copy code
+src/               # Source code
+|-- components/    # React components
+|-- styles/        # CSS styles, including Tailwind CSS
+|-- App.jsx        # Main application component
+|-- index.jsx      # Entry point
+vbnet
+Copy code
+
+
+
+
+
